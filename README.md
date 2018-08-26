@@ -56,13 +56,7 @@ Please enter registered account information.
 
 ![](docs/notification-badge-example.png)
 
-In order to use it, desktop notification must be enabled on *misskey* side.
-
-| current actived service | clear badge |
-|-|-|
-| this service | At the end of 10 seconds from the last notice | 
-| other service | this service actived |
-
+It will be cleared as soon as you confirm the notification.
 
 ## LICENSE
 
