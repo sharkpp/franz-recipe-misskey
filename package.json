@@ -1,0 +1,17 @@
+{
+  "id": "misskey",
+  "name": "Misskey",
+  "version": "1.0.0",
+  "description": "Misskey recipe for Franz 5 or later",
+  "main": "index.js",
+  "author": "sharkpp <webmaster@sharkpp.net>",
+  "license": "MIT",
+  "repository": "https://github.com/sharkpp/franz-recipe-misskey",
+  "config": {
+    "serviceURL": "https://{teamId}",
+    "hasTeamId": true,
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "message": "Please enter the instance address of Misskey in the team name input box."
+  }
+}
